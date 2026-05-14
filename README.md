@@ -1,10 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=Software+Architect+%26+Systems+Optimizer;AI+Researcher+%7C+Multimodal+Fusion;Java+Algorithm+Specialist;Full-Stack+Systems+Engineer&center=true&width=700&height=55&color=58A6FF&vCenter=true&size=24" 
-      alt="Typing SVG" 
-    />
-  </a>
+  Software Architect • AI Researcher • Java Algorithm Specialist • Full-Stack Systems Engineer
 </h1>
 
 <p align="center">
@@ -30,6 +25,8 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Auth-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ---
