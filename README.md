@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Focused on high-performance backends, multimodal AI research, and cross-platform mobile engineering.
+  Focused on high-performance backends, AI research, and cross-platform mobile software engineering.
 </p>
 
 ---
