@@ -1,5 +1,5 @@
 <h1 align="center">
-  Software Architect • AI Researcher • Java Algorithm Specialist • Full-Stack Systems Engineer
+  Software Architect • AI Software Engineer • Java Algorithm Specialist • Full-Stack Systems Engineer
 </h1>
 
 <p align="center">
