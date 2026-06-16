@@ -38,34 +38,6 @@
 
 ---
 
-# Performance Metrics
-
-<div align="center">
-
-  <img 
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dreamymc&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
-  />
-
-  <img 
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dreamymc&layout=compact&theme=radical&hide_border=true&langs_count=8"
-  />
-
-</div>
-
----
-
-# LeetCode Proficiency
-
-<div align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/mbernard18?theme=dark&font=Syne%20Mono&ext=heatmap" 
-    alt="LeetCode Stats" 
-  />
-</div>
-
----
 
 # Featured Projects
 
@@ -176,6 +148,35 @@ A high-fidelity, zero-login ordering platform built for a real food stall. Desig
 - **Hardware & Systems Optimization:** Deep-level OS troubleshooting, registry modifications, and hardware underclocking to stabilize systems and maximize performance constraints.
 - **Network Security & Privacy:** Deploying and managing network-wide DNS sinkholes and localized server environments.
 - **Adaptability & Rapid Acquisition:** Shifting seamlessly across frontend, backend, and machine learning paradigms while rapidly absorbing new tech stacks and structural paradigms.
+
+---
+
+# Performance Metrics
+
+<div align="center">
+
+  <img 
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=dreamymc&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+  />
+
+  <img 
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dreamymc&layout=compact&theme=radical&hide_border=true&langs_count=8"
+  />
+
+</div>
+
+---
+
+# LeetCode Proficiency
+
+<div align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/mbernard18?theme=dark&font=Syne%20Mono&ext=heatmap" 
+    alt="LeetCode Stats" 
+  />
+</div>
 
 ---
 
