@@ -95,30 +95,6 @@ A production-grade project management platform showcasing senior-level Laravel a
 
 ---
 
-### 🍔 [Luzville Burger App](https://github.com/dreamymc/luzville-burger-app)
-> **Real-time fast-food ordering system — Next.js 16 · React 19 · Supabase · TypeScript · Tailwind CSS v4**
-
-A high-fidelity, zero-login ordering platform built for a real food stall. Designed for maximum throughput and owner control.
-
-- **Zero-friction ordering** — customers skip sign-up entirely, checking out with only a display name persisted in their browser session
-- **Live order tracking** — real-time status pipeline (*Pending* → *Confirmed* → *Finished & Ready*) using Supabase Realtime `postgres_changes` subscriptions, tightly filtered per `client_id` to minimize server load
-- **Owner command center** — Kanban orders board, siomai inventory quick-update, shop open/close master gate, dynamic menu manager
-- **Server-side price recalculation** on every order via Next.js API routes with a Service Role client — zero client-side price tampering possible
-- **Row-Level Security (RLS)** hardened across all tables — public callers read-only, all mutations gated behind authenticated owner credentials
-- **Automated Playwright E2E** browser tests covering the full customer checkout flow
-- Mobile-first UI with floating action buttons (FABs) for thumb-friendly cart access on any screen size
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-16.2-black?style=flat-square&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase" />
-  <img src="https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-v4-38BDF8?style=flat-square&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Playwright-E2E-45BA4B?style=flat-square&logo=playwright" />
-</div>
-
----
-
 ### 📟 [Conduit](https://github.com/dreamymc/conduit)
 > **Mobile-first WSL 2 terminal gateway — Node.js · Express · xterm.js · node-pty · WebSockets · Cloudflare Tunnels · JWT**
 
@@ -143,6 +119,31 @@ A secure PTY gateway that turns any phone browser into a full shell connected to
   <img src="https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens" />
   <img src="https://img.shields.io/badge/PWA-Ready-5A0FC8?style=flat-square" />
 </div>
+
+---
+
+### 🍔 [Luzville Burger App](https://github.com/dreamymc/luzville-burger-app)
+> **Real-time fast-food ordering system — Next.js 16 · React 19 · Supabase · TypeScript · Tailwind CSS v4**
+
+A high-fidelity, zero-login ordering platform built for a real food stall. Designed for maximum throughput and owner control.
+
+- **Zero-friction ordering** — customers skip sign-up entirely, checking out with only a display name persisted in their browser session
+- **Live order tracking** — real-time status pipeline (*Pending* → *Confirmed* → *Finished & Ready*) using Supabase Realtime `postgres_changes` subscriptions, tightly filtered per `client_id` to minimize server load
+- **Owner command center** — Kanban orders board, siomai inventory quick-update, shop open/close master gate, dynamic menu manager
+- **Server-side price recalculation** on every order via Next.js API routes with a Service Role client — zero client-side price tampering possible
+- **Row-Level Security (RLS)** hardened across all tables — public callers read-only, all mutations gated behind authenticated owner credentials
+- **Automated Playwright E2E** browser tests covering the full customer checkout flow
+- Mobile-first UI with floating action buttons (FABs) for thumb-friendly cart access on any screen size
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-16.2-black?style=flat-square&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/React-19.0-61DAFB?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase" />
+  <img src="https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-v4-38BDF8?style=flat-square&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Playwright-E2E-45BA4B?style=flat-square&logo=playwright" />
+</div>
+
 
 ---
 
