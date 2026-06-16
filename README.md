@@ -32,49 +32,6 @@
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </div>
 
----
-
-# Core Engineering Experience
-
-### Java Programming
-- 3500+ total hours dedicated to extensive Java development and algorithm design.
-- Solving complex backend problems and troubleshooting deep architectural logic.
-- Creating structural fixes and refactoring existing, legacy Java codebases.
-- Developing standalone mini-programs engineered to cater to past personal interests.
-- Building fun, interactive Java applications from the ground up.
-- Architecting high-level conditional logic and deeply nested if/else control flows to manage strict state requirements.
-- 3000 of those hours logged purely before adopting AI assistants.
-
-### AI & Deep Learning
-- 400+ hours building:
-  - PyTorch fine-tuning workflows
-  - TensorFlow pipelines
-  - ComfyUI node systems
-  - custom image generation architectures
-  - multimodal AI experimentation
-
-### Python Systems Engineering
-- Developed high-performance backend systems including:
-  - Leave Management System using Python to Rust bridging
-  - custom trajectory and collision mathematics
-  - Slingshot Physics Simulator engine
-
-### Flutter & Dart Architecture
-- Architected scalable cross-platform systems:
-  - RoleFlow
-  - ShoeTally
-- Integrated:
-  - Firebase and Firestore
-  - Cloudinary CDN pipelines
-  - real-time synchronization
-  - robust state management
-
-### Core Competencies & Systems Knowledge
-- **Software Architecture & Decompositional Design:** Breaking down monolithic logic into highly scalable, manageable, and strictly typed modular components.
-- **Advanced Prompt Engineering:** Precision-crafting system instructions and constraints for LLMs to enforce strict architectural compliance and zero-hallucination code generation.
-- **Hardware & Systems Optimization:** Deep-level OS troubleshooting, registry modifications, and hardware underclocking to stabilize systems and maximize performance constraints.
-- **Network Security & Privacy:** Deploying and managing network-wide DNS sinkholes and localized server environments.
-- **Adaptability & Rapid Acquisition:** Shifting seamlessly across frontend, backend, and machine learning paradigms while rapidly absorbing new tech stacks and structural paradigms.
 
 ---
 
@@ -104,6 +61,41 @@
     alt="LeetCode Stats" 
   />
 </div>
+
+---
+
+# Core Engineering Experience
+
+### Java Programming
+- Solving complex backend problems and troubleshooting deep architectural logic.
+- Creating structural fixes and refactoring existing, legacy Java codebases.
+- Building fun, interactive Java applications from the ground up.
+- Architecting high-level conditional logic and deeply nested if/else control flows to manage strict state requirements.
+
+### AI & Deep Learning
+  - PyTorch fine-tuning workflows
+  - ComfyUI node systems
+  - custom image generation architectures
+
+
+### Flutter & Dart Architecture
+- Architected scalable cross-platform systems:
+  - RoleFlow
+  - ShoeTally
+- Integrated:
+  - Firebase and Firestore
+  - Cloudinary CDN pipelines
+  - real-time synchronization
+  - robust state management
+
+### Core Competencies & Systems Knowledge
+- **Software Architecture & Decompositional Design:** Breaking down monolithic logic into highly scalable, manageable, and strictly typed modular components.
+- **Advanced Prompt Engineering:** Precision-crafting system instructions and constraints for LLMs to enforce strict architectural compliance and zero-hallucination code generation.
+- **Hardware & Systems Optimization:** Deep-level OS troubleshooting, registry modifications, and hardware underclocking to stabilize systems and maximize performance constraints.
+- **Network Security & Privacy:** Deploying and managing network-wide DNS sinkholes and localized server environments.
+- **Adaptability & Rapid Acquisition:** Shifting seamlessly across frontend, backend, and machine learning paradigms while rapidly absorbing new tech stacks and structural paradigms.
+
+
 
 ---
 
